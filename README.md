@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tkisko
-- 👀 I’m interested in software applcations and website development. Taught 10k engineers computer related courses. Now retired
+- 👀 I’m interested in software applcations and website development. Taught computer related courses to 10,000 engineering students at the University of Florida. Now retired.
 - 🌱 I’m currently learning update my website
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
